@@ -1,5 +1,7 @@
 # sketchy?
 
+Checkout Live :   [![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-brightgreen?style=for-the-badge&logoColor=white)](https://sketchy-job.vercel.app)
+
 A small web app that reviews job descriptions for scam-like or otherwise shady signals. Paste a posting, submit it, and get a short verdict with any red flags the model finds.
 
 Built with Next.js and Google Gemini.
